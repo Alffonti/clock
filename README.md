@@ -1,4 +1,4 @@
-# Clock - SASS project
+# Clock - NPM project
 
 This is a project of the [Understanding NPM - Node.js Package Manager](https://www.udemy.com/course/understanding-npm/) course. Some NPM packages were installed to master common commands in the Node Package Manager.
 
@@ -34,4 +34,4 @@ Live site: [https://alffonti.github.io/clock/index.html)
 
 - [Difference between dependencies, devDependencies and peerDependencies](https://www.geeksforgeeks.org/difference-between-dependencies-devdependencies-and-peerdependencies/)
 - [The difference between dependencies and devDependencies in a JavaScript project](https://dev.to/clairecodes/the-difference-between-dependencies-and-devdependencies-in-a-javascript-project-22f2)
--[A guide to creating a NodeJS command-line package](https://medium.com/netscape/a-guide-to-create-a-nodejs-command-line-package-c2166ad0452e)
+- [A guide to creating a NodeJS command-line package](https://medium.com/netscape/a-guide-to-create-a-nodejs-command-line-package-c2166ad0452e)
