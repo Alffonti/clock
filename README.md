@@ -4,7 +4,7 @@ This is a project of the [Understanding NPM - Node.js Package Manager](https://w
 
 ## About The Project
 
-![Clock screenshot](./screenshot.jpg)
+![Clock screenshot](https://user-images.githubusercontent.com/69361901/197349532-0d62b2bf-0ed4-43dd-b89a-aa2421b2e130.png)
 
 The project aims to:
 - initialize a project using NPM by wrting `npm init -y`
